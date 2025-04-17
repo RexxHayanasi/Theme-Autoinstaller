@@ -30,4 +30,4 @@ bash <(curl -s http)
 _\* di atas adalah os yang pernah di test, selebihnya bisa di test sendiri._
 
 ## Create
-- Created by [ Linh ](https://github.com/verylinh)
+- Created by [ Linh ](https://github.com/veryLinh)
