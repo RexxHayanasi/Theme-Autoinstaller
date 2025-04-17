@@ -30,4 +30,4 @@ bash <(curl -s http)
 _\* di atas adalah os yang pernah di test, selebihnya bisa di test sendiri._
 
 ## Create
-- Created by [ FOXSTORE ](https://github.com/Foxstoree)
+- Created by [ Linh ](https://github.com/verylinh)
