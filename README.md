@@ -1,4 +1,4 @@
-# :magic: Theme-Autoinstaller
+# :sky: Theme-Autoinstaller
 
 
 
