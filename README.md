@@ -1,4 +1,4 @@
-# :magic wand: Theme-Autoinstaller
+# :magic: Theme-Autoinstaller
 
 
 
