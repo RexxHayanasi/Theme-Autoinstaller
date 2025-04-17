@@ -1,4 +1,4 @@
-# :sky: Theme-Autoinstaller
+# :bird: Theme-Autoinstaller
 
 
 
