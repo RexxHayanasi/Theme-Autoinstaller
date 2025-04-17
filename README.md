@@ -1,4 +1,4 @@
-# :bird: Theme-Autoinstaller
+# 🪄 Theme-Autoinstaller
 
 
 
