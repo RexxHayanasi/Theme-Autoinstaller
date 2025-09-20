@@ -137,7 +137,7 @@ install_theme() {
   echo -e "${YELLOW}Menginstall dependensi dan apply theme...${NC}"
   sudo cp -rfT /root/pterodactyl /var/www/pterodactyl
 
-  curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+  curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
   sudo apt install -y nodejs
   sudo npm install -g yarn
 
