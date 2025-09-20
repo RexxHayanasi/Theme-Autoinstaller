@@ -66,7 +66,7 @@ check_token() {
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}Token Salah!${NC}"
-    echo -e "${YELLOW}© veryLinh${NC}"
+    echo -e "${YELLOW}© RexxHayanasi${NC}"
     exit 1
   fi
   clear
@@ -109,7 +109,7 @@ install_theme() {
       ;;
   esac
 
-  THEME_URL="https://github.com/veryLinh/Theme-Autoinstaller/raw/main/${THEME_NAME}.zip"
+  THEME_URL="https://github.com/RexxHayanasi/Theme-Autoinstaller/raw/main/${THEME_NAME}.zip"
 
   echo -e "${YELLOW}Mengunduh theme $THEME_NAME...${NC}"
   wget -q -O "/root/${THEME_NAME}.zip" "$THEME_URL"
