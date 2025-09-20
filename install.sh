@@ -13,7 +13,7 @@ display_welcome() {
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BLUE}[+]                AUTO INSTALLER THEMA             [+]${NC}"
-  echo -e "${BLUE}[+]                  © SKYZOPEDIA                [+]${NC}"
+  echo -e "${BLUE}[+]                  © REXXHAYANASI              [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${RED}[+] =============================================== [+]${NC}"
   echo -e ""
@@ -62,7 +62,7 @@ check_token() {
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "skyzodev" ]; then
+  if [ "$USER_TOKEN" = "RexxHayanasi" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}Token Salah!${NC}"
