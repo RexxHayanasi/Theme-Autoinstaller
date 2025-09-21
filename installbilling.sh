@@ -20,7 +20,7 @@ unzip -oq /root/billing.zip -d /root/pterodactyl
 sudo cp -rfT /root/pterodactyl /var/www/pterodactyl
 
 echo -e "${YELLOW}[+] Install Node.js 20 dan Yarn...${NC}"
-curl -sL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 sudo apt install -y nodejs
 sudo npm install -g yarn
 
